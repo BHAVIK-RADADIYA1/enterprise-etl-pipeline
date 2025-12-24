@@ -5,7 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 **A production-ready ETL pipeline demonstrating enterprise data engineering best practices**
 
@@ -279,19 +278,3 @@ Contributions are welcome! Feel free to:
 4.  Submit a pull request
 
 ---
-
-##  License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-###  Star this repo if you found it helpful!
-
-**Made with  for the Data Engineering Community**
-
-[ Back to Top](#-enterprise-etl-pipeline)
-
-</div>

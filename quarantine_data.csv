@@ -1,0 +1,3 @@
+order_id,customer_name,product,category,price,quantity,transaction_date
+103,Charlie,Keyboard,Accessories,-50,1,2023-10-01
+105,,Mouse,Accessories,25,5,2023-10-02

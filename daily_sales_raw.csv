@@ -1,0 +1,7 @@
+order_id,customer_name,product,category,price,quantity,transaction_date
+101,Alice,Laptop,Electronics,1200,1,2023-10-01
+102,Bob,Mouse,Accessories,25,2,2023-10-01
+103,Charlie,Keyboard,Accessories,-50,1,2023-10-01
+104,David,Monitor,Electronics,300,2,2023-10-02
+105,,Mouse,Accessories,25,5,2023-10-02
+106,Frank,Laptop,Electronics,1200,1,2023-10-02
